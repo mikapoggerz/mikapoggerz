@@ -1,4 +1,4 @@
-  Hi, I’m @mikapoggerz, i'm a software engineering student on Pontifícia Universidade Católica;
+  Hi, I’m @mikapoggerz, i'm a software engineering student at Pontifícia Universidade Católica;
   
   >interests: 
    -homebrewing; 
