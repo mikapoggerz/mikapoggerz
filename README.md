@@ -1,9 +1,9 @@
   Hi, I’m @mikapoggerz, i'm a software engineering student on Pontifícia Universidade Católica;
   
-  >interests:
-   -homebrewing;
-   -artifical intelligence;
-   -data management;
+  >interests: \n
+   -homebrewing; \n
+   -artifical intelligence; \n
+   -data management; \n
 
   >currently learning:
    -Rust;
